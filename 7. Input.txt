@@ -1,0 +1,10 @@
+You: Hello
+iBot: Hello! How can I assist you today?
+You: I want to book tickets for a movie
+iBot: Here is the list of movies: Interstellar, The Dark Knight, Dune. Which movie would you like to watch?
+Which movie would you like to watch? :Interstellar
+How many tickets do you need? :2 
+At what time would you like to watch the movie? :Morning
+TeaBot: Booking confirmed! You have booked 2 tickets for Interstellar at Morning.
+Total amount: Rs. 200.
+You: bye

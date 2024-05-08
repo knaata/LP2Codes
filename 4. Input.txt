@@ -1,0 +1,18 @@
+Enter the number of junctions (vertices) in the water supply network: 5
+Enter the number of pipes (edges) in the network: 7
+Enter the connections and capacities for each pipe (source, destination, capacity):
+0 1 4
+0 2 8
+1 2 2
+1 3 6
+2 3 3
+2 4 9
+3 4 5
+
+MST for water supply network:
+Pipe from 0 to 1 with capacity 4 is added to the network.
+Pipe from 1 to 2 with capacity 2 is added to the network.
+Pipe from 2 to 3 with capacity 3 is added to the network.
+Pipe from 3 to 4 with capacity 5 is added to the network.
+
+Total cost of MST = 14

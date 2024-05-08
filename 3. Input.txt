@@ -1,0 +1,17 @@
+Enter the places in the college map separated by spaces: A B C D
+Enter the number of paths between places: 7
+Enter the paths (source, destination, distance):
+A B 4
+A C 2
+B C 5
+B D 10
+C D 3
+D C 4
+D A 7
+Enter the name of the source vertex: A
+
+Place   Distance from A
+A        0
+B        4
+C        2
+D        5

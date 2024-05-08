@@ -1,0 +1,48 @@
+Enter edges (format: 'node1 node2', type 'done' to finish): A B
+Enter edges: A C
+Enter edges: B D
+Enter edges: B E
+Enter edges: D F
+Enter edges: C G
+Enter edges: C H
+Enter edges: done
+Enter starting node: A
+
+DFS Recursive traversal: 
+Visited node A at level 0
+Visited node B at level 1
+Visited node D at level 2
+Visited node F at level 3
+Visited node E at level 2
+Visited node C at level 1
+Visited node G at level 2
+Visited node H at level 2
+
+DFS Iterative traversal:
+Visited node A at level 0
+Visited node B at level 1
+Visited node D at level 2
+Visited node F at level 3
+Visited node C at level 1
+Visited node G at level 2
+Visited node H at level 2
+
+BFS Recursive traversal:
+Visited node A at level 0
+Visited node B at level 1
+Visited node C at level 1
+Visited node D at level 2
+Visited node E at level 2
+Visited node G at level 2
+Visited node H at level 2
+Visited node F at level 3
+
+BFS Iterative traversal:
+Visited node A at level 0
+Visited node B at level 1
+Visited node C at level 1
+Visited node D at level 2
+Visited node E at level 2
+Visited node G at level 2
+Visited node H at level 2
+Visited node F at level 3
